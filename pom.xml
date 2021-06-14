@@ -73,6 +73,12 @@
             <artifactId>jbcrypt</artifactId>
             <version>0.4</version>
         </dependency>
+        
+        <dependency>
+		    <groupId>de.codecentric</groupId>
+		    <artifactId>spring-boot-admin-starter-client</artifactId>
+		    <version>2.4.1</version>
+		</dependency>
 		
 		<!-- End insert -->
 	</dependencies>
